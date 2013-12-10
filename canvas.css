@@ -1,0 +1,13 @@
+button {
+  display: block;
+  font-size: 2em;
+  margin: 10px;
+  color: white;
+  background-color: white;
+}
+
+button:hover{
+  display: block;
+  color: blue;
+  background-color: white;
+}
