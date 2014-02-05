@@ -8,6 +8,6 @@
 By [Matt Schneider](https://github.com/MBSchneider).
 
 ## Description
-This is a simple demonstration of some of the basics of drawing on a canvas in JavaScript.  Please see blog posting at [http://www.matt-schneider.com/posts/4?](http://www.matt-schneider.com/posts/4?) for further information.
+This is a simple demonstration of some of the basics of drawing on a canvas in JavaScript.  Please see blog posting at [http://www.matt-schneider.com/posts/2](http://www.matt-schneider.com/posts/2) for further information.
 
 ![Screenshot 1](https://raw.github.com/MBSchneider/simple-canvas-example/master/JSCanvas_Screen_Shot.png)
